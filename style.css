@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(223, 173, 198);
+}
+
+section{
+    border-top: 10px solid rgb(61, 60, 61);
+    box-shadow: 3px 4px 10px rgb(68, 67, 67);
+    width: 270px;
+    border-radius: 5px 5px 0 0;
+    margin: 120px auto;
+    background: rgb(61, 60, 61);
+}
+
+.screen{
+    width: 270px;
+}
+
+#screen{
+    width: 100%;
+    padding-inline: 5px;
+    border: none;
+    height: 90px;
+    background: #fff;
+    outline: none;
+    font-size: 1.1rem;
+}
+
+.content{
+    padding: 15px 10px;
+    color: #fff;
+}
+
+.row{
+    text-align: center;
+    margin-top: 10px;
+}
+
+span{
+    display: inline-block;
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    cursor: context-menu;
+}
+
+span:hover{
+    color: #000;
+    background: #fff;
+}
