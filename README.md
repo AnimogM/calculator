@@ -1,1 +1,1 @@
-https://animogm.github.io/calculator/
+https://ncalculator.netlify.app/
